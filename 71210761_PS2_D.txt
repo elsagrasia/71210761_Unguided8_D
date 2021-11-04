@@ -1,0 +1,11 @@
+Penjelasan : air dituangkan ada dua jalur yang dapat dilalui oleh air jalur kanan dan jalur kiri.
+- air yang dituangkan dijalur sebelah kiri
+  ada tiga jalur lagi, ketiga-tiga tidak dapat dilalui karena tertutup sehingga gelas 1,2,3 tidak dapat terisi.
+
+- air yang dituangkan dijalur sebelah kanan
+  ada tiga jalur yang dapat dilalui kiri, bawah dan kanan tetapi jalur bawah tertutup sehingga gelas no 6 tidak dapat terisi.
+  ditengah-tengah jalur sebelah kanan tersumbat sehingga gelas no 7 tidak dapat terisi air. jalur sebelah kiri ada dua jalur lagi yaitu kanan dan kiri, jalur kanan
+  tidak dapat dilalui oleh air karena ujungnya tersumbat sehingga gelas no 5 tidak dapat terisi, jadi jalan sbelah kiri satu-satunya yang tidak tersumbat sehingga
+  gelas no 4 yang dapat terisi.
+
+Kesimpulan : hanya gelas no 4 yang terisi air.
