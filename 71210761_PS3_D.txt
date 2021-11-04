@@ -1,0 +1,9 @@
+n=bilangan asli
+If mencari nilai n!
+    tampilkan hasil "n*(n-1)*(n-2) ..."
+
+Contoh :
+misal n=4
+n=bilangan asli
+If mencari nilai n!
+    tampilkan hasil "4*(4-1)*(4-2)*(4-3)"
